@@ -1,0 +1,1 @@
+{"name":"Local: BruteForce","url":"d:\\Atom\\HackerEarth Problems\\Beautiful Subarray\\BruteForce.cpp","tests":[{"id":1623864445812,"input":"1\n10\n-8 -17 -27 -43 -11 7 15 27 26 15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Atom\\HackerEarth Problems\\Beautiful Subarray\\BruteForce.cpp","group":"local","local":true}

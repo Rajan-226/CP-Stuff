@@ -1,0 +1,1 @@
+{"name":"Local: solution","url":"d:\\Atom\\HackerEarth Problems\\Longest Palindromic String\\solution.cpp","tests":[{"id":1626953232645,"input":"2\n4\nbcba\n3\naaa\n5\nhello\n3\norz","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Atom\\HackerEarth Problems\\Longest Palindromic String\\solution.cpp","group":"local","local":true}
